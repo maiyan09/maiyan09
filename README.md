@@ -2,9 +2,6 @@
 
 <p align="center">
   Man | 🎓 CS Student | 🎯 Codeforces
-
-
----
 ---
 
 ## 📊 My GitHub Stats

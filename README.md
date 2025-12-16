@@ -7,8 +7,6 @@
 ## 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maiyan09&show_icons=true&theme=radical" height="150" alt="stats"/>
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiyan09&layout=compact&theme=radical" height="150" alt="langs"/>
 </p>
 

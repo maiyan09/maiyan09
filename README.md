@@ -5,7 +5,7 @@
 ---
   
 ## 📊 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiyan09&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maiyan09&theme=highcontrast&show_icons=true)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maiyan09&show_icons=true&theme=radical" height="150" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiyan09&layout=compact&theme=radical" height="150" alt="langs"/>

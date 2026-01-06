@@ -4,11 +4,10 @@
   Man | 🎓 CS Student | 🎯 Future
 ---
   
-## 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maiyan09&theme=highcontrast&show_icons=true" height="150" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiyan09&layout=compact&theme=radical" height="160" alt="langs"/>
-</p>
+## 📊 My GitHub Views
+<div align="center">
+  <img src="https://count.getloli.com/@:maiyan09?theme=booru-qualityhentais&padding=4&offset=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+</div>
 
 ---
 ## ☕ Let's Connect_ 

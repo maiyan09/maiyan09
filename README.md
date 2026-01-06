@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://codeforces.com/profile/maiyan09"><img src="https://img.shields.io/badge/Codeforces-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
   <a href="mailto:s.rahman.maiyan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/samiur-rahman-maiyan-bb269b384/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/samiur-rahman-maiyan-bb269b384/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ target="-blank></a>
 </p>
 
 <p align="center">

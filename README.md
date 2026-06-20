@@ -5,7 +5,7 @@
 ---
   
 ## 📊 My GitHub Views
-<div align="center" bg = "red">
+<div align="center" background="red">
   <img src="https://count.getloli.com/@:maiyan09?theme=booru-qualityhentais&padding=4&offset=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 

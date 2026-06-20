@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:0F172A,100:2563EB&text=Samiur%20Rahman&fontColor=ffffff&fontSize=60&animation=fadeIn&desc=Computer%20Science%20Student%20•%20NLP%20Researcher%20•%20Competitive%20Programmer&descAlignY=65"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F549278&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Samiur+Rahman;Computer+Science+Student;Competitive+Programmer;Research+Enthusiast;" />
 </p>
 
 <h1 align="center">Hello! 👋 I'm Samiur Rahman</h1>

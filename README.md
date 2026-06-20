@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=250&section=header&text=Samiur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,django,mysql,git,github,vscode&theme=dark" />
 </p>
 
 <h1 align="center">Hello! 👋 I'm Samiur Rahman</h1>

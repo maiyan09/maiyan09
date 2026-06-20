@@ -7,7 +7,6 @@
   <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programmer;%26+Research+Enthusiast;" />
 </p>
----
   
 ## 📊 My GitHub Views
 <div align="center" background="red">

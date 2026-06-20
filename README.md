@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,django,mysql,git,github,vscode&theme=dark" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Competitive+Programmer;%26+AI+Research+Enthusiast;Future.." />
 </p>
 
 <h1 align="center">Hello! 👋 I'm Samiur Rahman</h1>

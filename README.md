@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=250&section=header&text=Samiur%20Rahman&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hello! 👋 I'm Samiur Rahman</h1>
 
 <p align="center">

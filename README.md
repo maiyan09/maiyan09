@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=12,20,24,30&text=Samiur%20Rahman&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CS%20Student%20|%20Competitive%20Programmer%20|%20NLP%20Researcher&descAlignY=55&descSize=20"/>
+</p>
 
 <h1 align="center">Hello! 👋 I'm Samiur Rahman</h1>
 

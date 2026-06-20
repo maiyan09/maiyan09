@@ -1,9 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Samiur+Rahman;Computer+Science+Student;Competitive+Programmer;Natural+Language+Processing+Enthusiast;Future+AI+Researcher" />
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:1E3A8A,100:38BDF8&height=200&section=header&text=Code.%20Research.%20Innovate.&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:090979,50:4F46E5,100:06B6D4&height=220&text=Samiur%20Rahman&fontSize=50&fontColor=ffffff&animation=blinking&desc=NLP%20%7C%20AI%20Research%20%7C%20Competitive%20Programming&descSize=18"/>
 </p>
 
 <h1 align="center">Hello! 👋 I'm Samiur Rahman</h1>

@@ -1,4 +1,15 @@
-
+<a href="https://github.com/maiyan09/maiyan09">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maiyan09/maiyan09/main/dark.svg"
+    >
+    <img
+      alt="Maiyan's GitHub Profile README"
+      src="https://raw.githubusercontent.com/maiyan09/maiyan09/main/light.svg"
+    >
+  </picture>
+</a>
 
 <!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=1000&color=F549278&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Samiur+Rahman;Computer+Science+Student;Competitive+Programmer;Research+Enthusiast;" />

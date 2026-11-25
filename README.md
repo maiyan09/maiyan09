@@ -3,7 +3,7 @@
        width="250"
        alt="Cyberpunk Naruto Walking"/>
   <img src="id-card.svg" width="420" alt="Maiyan Developer ID Card">
-  <img src="naruto-walk.gif"
+  <img src="Eight-Frame Studio Walking Animation.gif"
        width="250"
        alt="Cyberpunk Naruto Walking"/>
 </p>

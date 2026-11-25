@@ -2,5 +2,5 @@
   <img src="naruto-walk.gif"
        width="250"
        alt="Cyberpunk Naruto Walking"/>
-  <img src="id-card.svg" width="320" alt="Maiyan Developer ID Card">
+  <img src="id-card.svg" width="280" alt="Maiyan Developer ID Card">
 </p>

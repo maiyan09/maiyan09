@@ -1,4 +1,4 @@
-<div style="border-bottom: 3px solid #00C9A7; display: inline-block;">
+<div style="border-bottom: 3px solid #000000; display: inline-block;">
 
   <img src="Friendly Waving Man Animation.gif"
        width="250"
